@@ -1,0 +1,5 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+cupy-cuda12x  # Change this based on your CUDA version (e.g., cupy-cuda11x) if using GPU
